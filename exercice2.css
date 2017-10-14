@@ -1,0 +1,45 @@
+div {
+  height:50px;
+}
+#un {
+  width: 100%;
+  background-color: blue;
+  float: left;
+}
+#deux {
+  margin-top: 8px;
+  height: 25px;
+  width: 100%;
+  background-color: red;
+  float: left;
+}
+#trois {
+  margin-top: 8px;
+  height: 125px;
+  width: 33%;
+  background-color: yellow;
+  float: left;
+}
+#quatre {
+  margin-top: 8px;
+  height: 125px;
+  width: 33%;
+  background-color: blue;
+  float: left;
+  margin-left: 9px;
+}
+#cinque {
+  margin-top: 8px;
+  height: 125px;
+  width: 33%;
+  background-color: green;
+  float: left;
+  margin-left: 9px;
+}
+#six {
+  margin-top: 8px;
+  height: 25px;
+  width: 100%;
+  background-color: red;
+  float: left;
+}
